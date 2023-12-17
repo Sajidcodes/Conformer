@@ -24,6 +24,9 @@ It is recommended to download the data and create a copy on your own drive for r
 Data Segmentation during Training
 To facilitate data segmentation during training, a sample code is provided. The code demonstrates how to use the transformer architecture for speaker classification.
 
+![image](https://github.com/Sajidcodes/Conformer/assets/101083684/f91beda2-9738-4989-ad8d-4abf301ee3bf)
+
+
 
 # Food for Thought
 Explore the conformer architecture (refer to the paper and function).
