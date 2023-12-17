@@ -1,6 +1,7 @@
 # Speaker Classification using Conformer 
 Task Introduction
-This project focuses on speaker classification using self-attention mechanisms inspired by the transformer architecture. The concept of self-attention was introduced in Google's work, "Attention is All You Need," combining the strengths of Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN) for parallelized sequence processing.
+This project focuses on speaker classification using self-attention mechanisms inspired by the transformer architecture. The concept of self-attention was introduced in Google's work, !["Attention is All You Need]([url](https://arxiv.org/pdf/1706.03762.pdf))
+  combining the strengths of Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN) for parallelized sequence processing.
 
 # Main Goal
 The primary objective is to learn how to implement and utilize transformers for multiclass classification tasks, building upon the knowledge gained in previous tasks such as phoneme classification.
