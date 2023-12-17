@@ -14,6 +14,8 @@ A phoneme is defined as a unit of speech sound in a language that can distinguis
 # Speaker Classification
 The focus is on multiclass classification for speaker classification. The goal is to predict the speaker from a given speech segment, treating each speech as a sequence of audio features.
 
+![image](https://github.com/Sajidcodes/Conformer/assets/101083684/b07e9997-60b6-4676-8a7a-28b9b642ff2a)
+
 # Data
 Training Set: 62,464 processed audio features with labels
 Test Set: 6,944 processed audio features without labels
