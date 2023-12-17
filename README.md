@@ -8,6 +8,9 @@ The primary objective is to learn how to implement and utilize transformers for 
 # Phoneme Classification 
 A phoneme is defined as a unit of speech sound in a language that can distinguish one word from another.
 
+![image](https://github.com/Sajidcodes/Conformer/assets/101083684/5a25b566-3ae7-475c-be85-958dd65090ed)
+
+
 # Speaker Classification
 The focus is on multiclass classification for speaker classification. The goal is to predict the speaker from a given speech segment, treating each speech as a sequence of audio features.
 
